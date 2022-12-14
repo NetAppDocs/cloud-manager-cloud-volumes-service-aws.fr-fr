@@ -50,9 +50,11 @@ Il n'y a aucun frais pour la découverte d'une région ou d'un volume Cloud Volu
 
 Pour commencer rapidement, suivez ces étapes ou passez aux sections suivantes pour obtenir plus d'informations.
 
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Vérifiez la prise en charge de votre configuration
 [role="quick-margin-para"]
 Vous devez avoir configuré AWS pour Cloud Volumes Service et vous être abonné à l'un de ces https://aws.amazon.com/marketplace/search/results?x=0&y=0&searchTerms=netapp+cloud+volumes+service["Offres NetApp Cloud Volumes Service sur AWS Marketplace"^] Et disposent d'un environnement de travail CVS pour AWS déjà configuré dans BlueXP pour créer et gérer des volumes.
 
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Deux"] Créez, montez et gérez des volumes cloud
 [role="quick-margin-para"]
 En utilisant un environnement de travail CVS pour AWS existant, vous pouvez créer, monter et gérer des volumes cloud pour les abonnements CVS pour AWS existants à l'aide de BlueXP.
 

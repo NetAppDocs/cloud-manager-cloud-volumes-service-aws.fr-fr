@@ -145,6 +145,7 @@ Voir link:task-manage-cloud-volumes-snapshots.html#create_or_modify_a_snapshot_p
 
 Le nouveau volume est ajouté à l'environnement de travail.
 
+.Une fois que vous avez terminé
 S'il s'agit du premier volume créé dans cet abonnement AWS, vous devez lancer la console de gestion AWS pour accepter les deux interfaces virtuelles qui seront utilisées dans cette région AWS pour connecter l'ensemble de vos volumes cloud. Voir la https://docs.netapp.com/us-en/cloud_volumes/aws/media/cvs_aws_account_setup.pdf["Guide de configuration de compte NetApp Cloud Volumes Service pour AWS"^] pour plus d'informations.
 
 Vous devez accepter les interfaces dans les 10 minutes après avoir cliqué sur le bouton *Ajouter un volume* pour que le système se déchaîne. Dans ce cas, envoyez un e-mail à cvs-support@netapp.com avec votre ID client AWS et votre numéro de série NetApp. Le support corrigera le problème et vous pourrez redémarrer le processus d'intégration.
